@@ -12,7 +12,7 @@ common workflows that help me as a developer and DevOps engineer.
 
 ## AstroNvim
 
-Currently supports the latest version of AstroNvim with my current configurations @ https://github.com/wjpin84/astronvim-config.
+Currently supports the latest version of AstroNvim with my current configurations @ https://github.com/MatthewSchleder/astronvim-config.
 The AstroNvim configurations should work cross-platform.
 
 ```bash

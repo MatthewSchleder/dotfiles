@@ -15,7 +15,7 @@ astronvim_install: astronvim_clean
 
 astronvim_reload_user:
 	rm -rf ~/.config/nvim/lua/user
-	git clone https://github.com/wjpin84/astronvim-config ~/.config/nvim/lua/user
+	git clone https://github.com/MatthewSchleder/astronvim-config ~/.config/nvim/lua/user
 
 astronvim: astronvim_install astronvim_reload_user
 
